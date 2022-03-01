@@ -6,3 +6,5 @@
 # 2. login feature를 push
 
 # 3. 코드 리뷰 진행, 원격지에 올려서
+
+# bug fixed 0.1.0 -> 0.1.1
