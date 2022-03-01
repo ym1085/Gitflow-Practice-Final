@@ -1,5 +1,7 @@
-### 2022-03-01
+release 0.1.0 start
 
-1. 로그인 코드 리뷰 작업 완료 후, 회원가입 브랜치에 develop 브랜치 병합(merge)
+deploy dev server
 
-2. 회원 가입 기능 완료
+QA
+
+bug fixed
